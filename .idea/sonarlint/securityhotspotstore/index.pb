@@ -6,3 +6,7 @@
 :
 
 Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+B
+src/docker-compose,1\9\19cb2f40ecfa2b71ec3398db8eb3551585ce66e4
+>
+docker-compose,2\a\2a298b027cf545ca9eb7cc48f69f8306436eae2a
